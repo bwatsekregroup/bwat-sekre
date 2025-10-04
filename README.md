@@ -4,7 +4,8 @@
 BWATSEKRE se yon aplikasyon mobil kap  pemet chak manb jere patwimwann yo nan yon mityel solidarite oubyen yon kes kominote.
 
 ### App Walk-though
-<img src="Walkthough.gif" width=200><br>
+
+<img src="https://github.com/bwatsekregroup/bwat-sekre/blob/main/Bwatsekre%20(1).gif" width=200><br>
 
 
 
